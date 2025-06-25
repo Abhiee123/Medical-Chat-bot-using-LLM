@@ -1,0 +1,3 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\79efc9abb87d3f75cf00\audio.wav,.gradio\flagged\image_filepath\9a863c4039355d97fc59\Measles-on-the-torso-of-a-child-body9.webp, Is there something wrong with my lags? I see so many red surface on my lag.,"I cannot give medical advice. If you are concerned about your symptoms, I recommend you to seek advice from a licensed doctor.",.gradio\flagged\output 2\8ad3277c15feee3be8b5\final.mp3,2025-03-12 20:42:11.921187
+,,,,,2025-03-12 20:49:36.510756
